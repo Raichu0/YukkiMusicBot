@@ -95,7 +95,7 @@ shikhar@MacBook~ $ bash start
 Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/Raichu01)
+- Contact options listed on [this GitHub profile](https://github.com/Raichu0)
 - [Telegram Support](https://t.me/Raichu_support)
 
 ## 🎗 Project assistance
@@ -109,7 +109,7 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 PS: You can buy me a coffee too :)
 <p><a href="https://www.buymeacoffee.com/notreallysy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-Together, we can make YukkiMusicBot **better**!
+Together, we can make  𓆩🕊️⃝𝐑𝐀𝐖𓆪 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 **better**!
 
 ## ✍🏻 Contributing
 
